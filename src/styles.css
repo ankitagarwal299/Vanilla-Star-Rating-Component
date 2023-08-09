@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+.star {
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.star.active {
+  color: gold;
+}
